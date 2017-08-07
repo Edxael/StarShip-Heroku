@@ -1,0 +1,21 @@
+{
+  "name": "StarSHip-Ent",
+  "version": "1.0.0",
+  "description": "Satar Ship Ent web app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Edmundo Rubio.",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "morgan": "^1.8.2"
+  },
+  "engines": {
+    "node": "7.10.0"
+  }
+}
